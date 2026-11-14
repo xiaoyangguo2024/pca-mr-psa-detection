@@ -1,0 +1,28 @@
+# Secrets (OpenGWAS token must never be committed)
+.opengwas_token
+.env
+
+# Local environments and caches
+env/
+Rlib/
+__pycache__/
+*.py[cod]
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+
+# Large raw inputs (download with scripts 01, 01b and 02)
+data/raw/
+data/ref/
+
+# Intermediate scratch
+work/
+
+# Generated figures
+results/figures/
+
+# Local manuscript and submission artefacts (not part of this repository)
+manuscript/
+submission/
+code_release/
