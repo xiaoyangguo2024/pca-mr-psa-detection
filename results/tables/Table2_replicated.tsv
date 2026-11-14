@@ -1,0 +1,17 @@
+Exposure (unit)	Original grade	Original OR	Reanalyzed OR (95% CI)	P	PSA ratio per unit (95% CI)	P (PSA)	PSA-driven OR	Detection fraction (95% interval)	Corrected OR (95% CI)	P (corrected)	Regrade
+BMI (SD)	Robust	0.92	0.86 (0.81-0.91)	7.8e-07	0.857 (0.840-0.874)	6.6e-53	0.893	0.74 (0.51 to 1.26)	0.96 (0.90-1.03)	0.231	largely detection-related
+Smoking initiation (log odds)	Robust	0.91	0.87 (0.79-0.95)	0.002	0.913 (0.887-0.940)	8.9e-10	0.936	0.47 (0.25 to 1.32)	0.93 (0.85-1.02)	0.114	partly detection-related
+Free testosterone (SD)	Probable	1.2	1.15 (1.05-1.25)	0.003	1.089 (1.043-1.136)	9.1e-05	1.064	0.46 (0.19 to 1.36)	1.08 (0.98-1.18)	0.132	partly detection-related
+Bioavailable testosterone (SD)	Probable	1.17	1.15 (1.05-1.26)	0.002	1.088 (1.039-1.139)	3.7e-04	1.064	0.44 (0.17 to 1.33)	1.08 (0.98-1.19)	0.111	partly detection-related
+Educational attainment (SD (years of schooling))	Probable	1.1	1.10 (1.00-1.21)	0.048	1.050 (1.013-1.088)	0.007	1.037	0.37 (-0.06 to 2.28)	1.06 (0.96-1.18)	0.229	partly detection-related
+Age at first sexual intercourse (SD)	Suggestive	1.18	1.23 (1.08-1.41)	0.002	1.110 (1.066-1.155)	3.1e-07	1.079	0.36 (0.18 to 0.97)	1.14 (1.00-1.31)	0.051	partly detection-related
+Leukocyte telomere length (SD)	Robust	1.37	1.37 (1.23-1.53)	9.4e-09	1.168 (1.130-1.207)	3.0e-20	1.121	0.36 (0.24 to 0.57)	1.23 (1.10-1.37)	3.6e-04	partly detection-related
+ALT (SD)	Robust	0.43	0.87 (0.80-0.94)	7.1e-04	0.940 (0.911-0.971)	1.5e-04	0.956	0.31 (0.13 to 0.83)	0.91 (0.83-0.99)	0.026	partly detection-related
+Hyperthyroidism (log odds)	Robust	0.86	0.96 (0.94-0.99)	0.002	0.988 (0.979-0.997)	0.012	0.991	0.25 (0.05 to 0.80)	0.97 (0.95-1.00)	0.026	partly detection-related
+Systemic lupus erythematosus (log odds)	Probable	0.99	0.98 (0.97-0.99)	0.002	0.994 (0.990-0.999)	0.022	0.996	0.24 (0.03 to 0.76)	0.99 (0.98-1.00)	0.024	partly detection-related
+Atrial fibrillation (log odds)	Probable	0.96	0.97 (0.94-0.99)	0.014	0.992 (0.982-1.002)	0.101	0.994	0.17 (-0.04 to 0.78)	0.97 (0.94-1.00)	0.047	not detection-related
+LDL cholesterol (SD)	Probable	1.23	1.07 (1.01-1.14)	0.017	1.011 (0.992-1.032)	0.262	1.008	0.12 (-0.12 to 0.66)	1.07 (1.00-1.13)	0.041	not detection-related
+Genus Adlercreutzia (SD)	Probable	0.89	0.92 (0.87-0.97)	0.004	0.998 (0.978-1.017)	0.806	0.998	0.02 (-0.21 to 0.28)	0.92 (0.87-0.98)	0.007	not detection-related
+CCL2 (SD)	Probable	1.06	1.06 (1.02-1.10)	0.006	1.000 (0.987-1.014)	0.969	1.000	0.00 (-0.25 to 0.26)	1.06 (1.01-1.10)	0.008	not detection-related
+IGF-I (SD)	Probable	1.1	1.06 (1.00-1.12)	0.041	0.999 (0.978-1.021)	0.916	0.999	-0.01 (-0.61 to 0.50)	1.06 (1.00-1.12)	0.046	not detection-related
+Class Alphaproteobacteria (SD)	Probable	0.84	0.91 (0.83-0.99)	0.032	1.003 (0.956-1.053)	0.904	1.002	-0.02 (-0.75 to 0.65)	0.91 (0.82-1.00)	0.042	not detection-related

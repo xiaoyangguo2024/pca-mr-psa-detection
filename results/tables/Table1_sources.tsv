@@ -1,0 +1,10 @@
+Use	Source	Cases / controls or N	Accession	Scale
+Prostate cancer (primary)	Wang et al. 2023, European meta-analysis (PRACTICAL/ELLIPSE, UK Biobank, FinnGen, MVP, US biobanks)	122,188 / 604,640	GCST90274714	log OR
+Prostate cancer	Schumacher et al. 2018, PRACTICAL/OncoArray	79,148 / 61,106	ieu-b-85	log OR
+Prostate cancer	UK Biobank (MRC-IEU OpenGWAS)	9,132 / 173,493	ieu-b-4809	linear model; converted to log OR
+Prostate cancer	FinnGen R5, C3_PROSTATE_EXALLC	6,311 / 74,685	finn-b-C3_PROSTATE_EXALLC	log OR
+ln PSA	Hoffmann et al. 2025, multi-ancestry (76% European; 96.5% MVP)	392,522 men without prostate cancer	GCST90461907	ln(ng/ml); adjusted for BMI and smoking in most cohorts
+Ever had a PSA test	UK Biobank field 2365 (MRC-IEU pipeline)	62,489 / 137,921	ukb-b-15695	linear model; converted to log OR
+BMI (correction of PSA effects)	UK Biobank (MRC-IEU pipeline)	461,460	ukb-b-19953	SD (4.8 kg/m²)
+Smoking initiation (correction of PSA effects)	GSCAN (Liu et al. 2019), excluding 23andMe	632,802	ieu-b-4877	log odds
+PSA covariate coefficients	NHANES 2001-2010, men ≥40 y without prostate cancer, PSA 0.01-10 ng/ml	7,032	CDC NHANES	survey-weighted regression

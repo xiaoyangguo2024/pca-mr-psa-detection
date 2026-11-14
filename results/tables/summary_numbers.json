@@ -1,0 +1,121 @@
+{
+ "DF_median_KLK": 0.36519968552941007,
+ "DF_range_KLK": [
+  0.2429784176857296,
+  0.7445107977080854
+ ],
+ "bmi": {
+  "DF": 0.7445107977080854,
+  "DF_adj": 0.4535182245507174,
+  "DF_hi": 1.2602520814766165,
+  "DF_lo": 0.5068324347168395,
+  "b_corr": -0.0389305400107499,
+  "b_pca": -0.152376459206558,
+  "b_psa": -0.15455884529745,
+  "b_psa_adj": -0.0941494110276049,
+  "p_corr": 0.2306869271822488,
+  "se_corr": 0.0324802474804851,
+  "se_pca": 0.0308385141188823,
+  "se_psa": 0.0100955462790007
+ },
+ "corrected_nonsignificant": [
+  "age of sexual initiation",
+  "smoking initiation",
+  "education attainment",
+  "BMI",
+  "bioavailable testosterone",
+  "free testosterone"
+ ],
+ "mvmr_lnpsa_range": [
+  1.10938400915237,
+  1.33657206822508
+ ],
+ "mvmr_n_sig": 0,
+ "mvmr_ratio_median": {
+  "detection": 0.17457448643438667,
+  "no_psa_pathway": 1.0946892641910662
+ },
+ "mvmr_se_ratio_range": [
+  1.7995709162653906,
+  3.9124054088260745
+ ],
+ "n_claims": 55,
+ "n_psa_instruments": {
+  "PSA_KLK": 52,
+  "PSA_gw": 326
+ },
+ "n_reanalysed": 50,
+ "n_replicated": 16,
+ "new_grade_KLK": {
+  "largely detection-related": 1,
+  "not detection-related": 6,
+  "not replicated": 34,
+  "partly detection-related": 9
+ },
+ "new_grade_gw": {
+  "largely detection-related": 8,
+  "not detection-related": 6,
+  "not replicated": 34,
+  "partly detection-related": 2
+ },
+ "replicated_by_grade": {
+  "Insufficient": {
+   "size": 15,
+   "sum": 0
+  },
+  "Probable": {
+   "size": 22,
+   "sum": 10
+  },
+  "Robust": {
+   "size": 9,
+   "sum": 5
+  },
+  "Suggestive": {
+   "size": 4,
+   "sum": 1
+  }
+ },
+ "replicated_overall_outcome": [
+  14,
+  46
+ ],
+ "replicated_same_gwas": [
+  9,
+  29
+ ],
+ "robust_replicated_detection": [
+  5,
+  5
+ ],
+ "spearman_obs_pred_all": [
+  0.6290996398559423,
+  9.927679700201305e-07
+ ],
+ "spearman_obs_pred_notreplicated": [
+  0.29442322383498853,
+  0.09097996644560954
+ ],
+ "theta_KLK": {
+  "PCa_FinnGen": [
+   0.721,
+   0.119
+  ],
+  "PCa_PRACTICAL": [
+   0.665,
+   0.052
+  ],
+  "PCa_UKB": [
+   0.871,
+   0.078
+  ],
+  "PCa_Wang2023": [
+   0.734,
+   0.045
+  ],
+  "PSAtest_UKB": [
+   0.085,
+   0.029
+  ]
+ }
+}
